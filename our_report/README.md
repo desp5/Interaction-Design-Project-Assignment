@@ -10,8 +10,12 @@
 
 
 # 1st Deliverable
-Brief : We are going to desing a system that takes sound as input and outputs a pattern of lights according to the amplitude of the input. 
-
+Brief : We are going to design a system that takes sound as input and outputs a pattern of lights according to the amplitude of the input. 
+Research (PACT) :
+i.Analyse People : People that want to decorate their house, streamers and for party luxuries.
+ii.Define Activities : Partying or just talk to each other casually.
+iii.Describe Context : Partying or just talk to each other casually.
+iv.Review needed technology : Arduino, breadboard, sound sensor, led RGB and other devices that may come in handy later on the project.
 
 # 2nd Deliverable
 
