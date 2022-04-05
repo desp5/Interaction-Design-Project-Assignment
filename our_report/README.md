@@ -10,6 +10,7 @@
 
 
 # 1st Deliverable
+Brief : We are going to desing a system that takes sound as input and outputs a pattern of lights according to the amplitude of the input. 
 
 
 # 2nd Deliverable
