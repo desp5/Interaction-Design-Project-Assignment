@@ -1,8 +1,8 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+### First and Last Name: Vlahou Despina, George Kotaridis, Mihalis Moralis
+### University Registration Number: dpsd19012, dpsd19056, dpsd19076
+### GitHub Personal Profile: desp5, dpsd19056, mm0ral
 
 # Introduction
 
